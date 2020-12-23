@@ -1,0 +1,751 @@
+﻿Date,Headline,Subjectivity,Polarity,Compound,Negative,Neutral,Positive
+2020-12-11,California to join federal antitrust case against Google,0.0,0.0,0.296,0.0,0.761,0.239
+2020-12-11,The Wall Street Journal: California files to join Justice Department antitrust lawsuit against Google,0.0,0.0,0.5719,0.103,0.595,0.303
+2020-12-11,"Nvidia Reaching $1 Trillion Will Be Tricky, But Growth Is Inevitable",1.0,0.0,0.4215,0.114,0.571,0.314
+2020-12-11,7 Earnings Reports to Watch Next Week,0.0,0.0,0.0,0.0,1.0,0.0
+2020-12-11,Europe urged to block Google-Fitbit ahead of major digital policy overhaul,0.25,0.03125,-0.4404,0.225,0.775,0.0
+2020-12-11,"Decrypted: Google finds a devastating iPhone security flaw, FireEye hack sends alarm bells ringing",1.0,-1.0,-0.6486,0.351,0.524,0.126
+2020-12-11,"News24.com | Facebook, Google risk fines of up to 6% revenue under new EU rules",0.45454545454545453,0.13636363636363635,-0.2732,0.139,0.861,0.0
+2020-12-10,Google will let you turn off YouTube ads for alcohol and gambling,0.0,0.0,0.0,0.0,1.0,0.0
+2020-12-10,The Facebook Battle: Big Government vs. the Free Internet,0.45,0.2,0.1779,0.202,0.543,0.256
+2020-12-10,"Google, YouTube To Let Users Opt Out Of Gambling, Alcohol Ads",0.0,0.0,0.0,0.0,1.0,0.0
+2020-12-10,: Google and antitrust: Big Tech’s first target could face more legal action,0.24666666666666667,0.21000000000000002,0.2006,0.0,0.86,0.14
+2020-12-10,"Google, Intel, Zoom and others launch a new alliance to get enterprises to use more Chrome",0.4772727272727273,0.3181818181818182,0.0,0.0,1.0,0.0
+2020-12-10,The 7 Best Startups You Can Buy on StartEngine Right Now,0.4178571428571428,0.6428571428571428,0.6369,0.0,0.682,0.318
+2020-12-10,Google to add Covid-19 vaccine information panels to Search,0.0,0.0,0.0,0.0,1.0,0.0
+2020-12-10,Google Lifts Political Ad Blackout; YouTube Finally Bans Election Fraud Claims,0.55,0.0,-0.5859,0.275,0.725,0.0
+2020-12-10,The Wall Street Journal: France fines Google and Amazon more than $163 million over privacy,0.5,0.5,0.1779,0.0,0.892,0.108
+2020-12-10,"French Data Protection Agency Fines Amazon, Google Over Advertising Cookies ",0.0,0.0,0.1779,0.0,0.841,0.159
+2020-12-10,Google and IAB adtech targeted with more RTB privacy complaints,0.5,0.5,-0.4522,0.248,0.752,0.0
+2020-12-10,France fines Google $120M and Amazon $42M for dropping tracking cookies without consent,0.0,0.0,0.0088,0.116,0.766,0.118
+2020-12-10,French watchdog fines Google €100m on cookies rule fail,0.14999999999999997,-0.25,-0.5423,0.304,0.696,0.0
+2020-12-10,"France's CNIL Fines Amazon, Google For Placing Advertising Cookies Without Consent ",0.0,0.0,0.0088,0.135,0.728,0.137
+2020-12-09,Google CEO says company will review AI scholar's abrupt exit,1.0,-0.125,0.0,0.0,1.0,0.0
+2020-12-09,Breakthrough Blockchain Technology Is Now Converting the Skeptics,0.0,0.0,-0.1027,0.167,0.833,0.0
+2020-12-09,Google CEO says company will review events leading up to Dr. Timnit Gebru’s departure,0.0,0.0,0.0,0.0,1.0,0.0
+2020-12-09,Social media stocks lower as antitrust reaction focuses on potential of Facebook breakup,0.5333333333333333,0.016666666666666666,-0.296,0.155,0.845,0.0
+2020-12-09,Palantir Is Even More Enticing After the Recent Sell-Off,0.375,0.25,0.0,0.0,1.0,0.0
+2020-12-09,The Wall Street Journal: Google to lift month-long political ad ban on Thursday,0.1,0.0,-0.5574,0.231,0.769,0.0
+2020-12-09,Management Fixed the Problems and GE Stock Is Back on Track,0.1,0.05,-0.4019,0.213,0.787,0.0
+2020-12-09,Man facing terror charges ‘made Google searches about Columbine shooters’,0.0,0.0,-0.6705,0.407,0.593,0.0
+2020-12-09,Google will change how Chrome extensions access data in 2021,0.0,0.0,0.0,0.0,1.0,0.0
+2020-12-09,3 Altcoins That Could Outpace Bitcoin in the Coming Years,0.0,0.0,0.0,0.0,1.0,0.0
+2020-12-09,"Australia unveils laws to make Google, Facebook pay for news",0.0,0.0,-0.1027,0.135,0.865,0.0
+2020-12-09,"Google quietly acquires Dataform, the UK startup helping businesses manage data warehouses",0.3333333333333333,0.0,0.296,0.0,0.833,0.167
+2020-12-09,"Firebolt raises $37M to take on Snowflake, Amazon and Google with a new approach to data warehousing",0.45454545454545453,0.13636363636363635,0.1779,0.0,0.898,0.102
+2020-12-09,"Google app store fees to widen gap between Netflix, local OTTs ",0.0,0.0,0.0,0.0,1.0,0.0
+2020-12-09,Apple (AAPL) Music Now Available on Google Smart Speakers,0.5214285714285715,0.30714285714285716,0.4019,0.0,0.748,0.252
+2020-12-08,"A company used Google ads to target sacked Australian workers, promising unfair dismissal payouts. Many clients say they were never paid.",0.5,0.05,-0.1027,0.13,0.756,0.113
+2020-12-08,"News24.com | WATCH | Australia to charge Facebook, Google for content",0.0,0.0,0.0,0.0,1.0,0.0
+2020-12-08,"UK tech rules may single out Facebook, Google",0.21428571428571427,-0.07142857142857142,0.0,0.0,1.0,0.0
+2020-12-08,4 Undervalued Bargain Stocks to Buy Before They Bounce,0.0,0.0,0.2023,0.0,0.795,0.205
+2020-12-08,Former Salesforce chief scientist announces new search engine to take on Google,0.22727272727272727,0.06818181818181818,0.0,0.0,1.0,0.0
+2020-12-08,Google wants you to help build its Fuchsia operating system,0.1,0.2,0.4019,0.0,0.769,0.231
+2020-12-08,Google opens its Fuchsia operating system to outside developers,0.05,0.0,0.0,0.0,1.0,0.0
+2020-12-08,Senate Democrats Push Google To Improve Ad Policies,0.0,0.0,0.4404,0.0,0.707,0.293
+2020-12-08,Google Cloud expands edge computing to help companies leverage AI and 5G,0.0,0.0,0.4767,0.0,0.709,0.291
+2020-12-08,Plurilock Announces Availability of New Mobile App for iPhone and Android Devices,0.45454545454545453,0.13636363636363635,0.0,0.0,1.0,0.0
+2020-12-08,"Facebook, Google will have to negotiate payments with Australian publishers as laws head to parliament",0.0,0.0,0.0,0.0,1.0,0.0
+2020-12-08,Australia to reveal laws to make Google and FB pay for news,0.0,0.0,-0.1027,0.113,0.887,0.0
+2020-12-07,Evercore's quarterly IT spending survey points to 'robust' 2021; here are its favored firms from the results,0.9,0.8,0.4215,0.0,0.851,0.149
+2020-12-07,Daily Crunch: Google smart speakers add Apple Music support,0.32142857142857145,0.10714285714285714,0.6597,0.0,0.565,0.435
+2020-12-07,Researchers are starting to refuse to review Google AI papers,0.1,0.0,-0.296,0.196,0.804,0.0
+2020-12-07,Google adds support for Apple Music to its Google Assistant-enabled smart speakers and displays,0.6428571428571429,0.21428571428571427,0.6597,0.0,0.69,0.31
+2020-12-07,3 Large-Cap Stocks to Buy for Surprise Upside Potential Into 2021,1.0,0.0,0.2732,0.0,0.811,0.189
+2020-12-07,The Wall Street Journal: Google spars with Barry Diller’s IAC on penalties for marketing practices,0.0,0.0,0.0,0.0,1.0,0.0
+2020-12-07,InvestmentPitch Media Video Discusses Urbanimmersive's Launch of its 'UI Capture' App for iOS and Android for the Ricoh Theta Z1 360 Camera - Video Available on Investmentpitch.com,0.4,0.4,0.0,0.0,1.0,0.0
+2020-12-07,The InvestorPlace Q&A: Focus on the Future of Work With the ProShares MSCI Transformational Changes ETF,0.125,0.0,0.0,0.0,1.0,0.0
+2020-12-07,Google Considers Penalties Over IAC's Chrome Browser Extensions: WSJ ,0.0,0.0,0.0,0.0,1.0,0.0
+2020-12-07,IAC shares drop 3% as Google mulls browser extension ban - WSJ,0.0,0.0,-0.5423,0.358,0.503,0.138
+2020-12-06,Fitbit Pay and Google Pay available via credit unions,0.4,0.4,0.2023,0.246,0.526,0.228
+2020-12-04,"Google AI researcher's exit sparks ethics, bias concerns",0.0,0.0,-0.1027,0.167,0.833,0.0
+2020-12-04,"AI Weekly: In firing Timnit Gebru, Google puts commercial interests ahead of ethics",0.0,0.0,-0.1027,0.156,0.714,0.13
+2020-12-04,Timnit Gebru: Google staff rally behind fired AI researcher,0.7,-0.4,-0.5574,0.31,0.69,0.0
+2020-12-04,5 Streaming Stocks to Buy for a Socially Distanced Holiday Season,0.06666666666666667,0.03333333333333333,0.4019,0.0,0.748,0.252
+2020-12-04,Nokia Stock Looks Like It Won’t Be Going Anywhere for a While,0.0,0.0,0.3612,0.0,0.8,0.2
+2020-12-04,7 Tech Stocks Ready to Rally Higher,0.5,0.225,0.3612,0.0,0.667,0.333
+2020-12-04,"Market bets on Google, Facebook takeover of KineMaster ",0.0,0.0,0.0,0.0,1.0,0.0
+2020-12-04,AI ethics pioneer’s exit from Google involved research into risks and inequality in large language models,0.42857142857142855,0.21428571428571427,-0.2732,0.123,0.877,0.0
+2020-12-03,Google Researcher Timnit Gebru Says She Was Fired For Paper on AI Bias ,0.0,0.0,-0.6124,0.312,0.688,0.0
+2020-12-03,Daily Crunch: Google fires co-lead of its Ethical AI team,0.3,0.1,0.5106,0.0,0.732,0.268
+2020-12-03,Google embroiled in row over AI bias research,0.0,0.0,-0.1027,0.167,0.833,0.0
+2020-12-03,WWE Undefeated launches on iOS and Android,0.0,0.0,0.0,0.0,1.0,0.0
+2020-12-03,Why and How You Should Shop the Drop in Alibaba Stock,0.0,0.0,-0.2732,0.174,0.826,0.0
+2020-12-03,News24.com | Google set to win EU approval for Fitbit takeover next week,0.2,0.4,0.7845,0.0,0.592,0.408
+2020-12-03,Innovation and Risk Taking Will Continue to Push Li Auto Stock Higher,0.5,0.25,0.128,0.143,0.68,0.177
+2020-12-03,Innovation and Risk Taking Will Continue to Push Li Stock Higher,0.5,0.25,0.128,0.153,0.657,0.19
+2020-12-03,"The Zacks Analyst Blog Highlights: Google, Amazon, Baidu, Intel and Apple",0.0,0.0,0.1779,0.0,0.855,0.145
+2020-12-03,Google AI ethics co-lead Timnit Gebru says she was fired over an email,0.0,0.0,-0.5574,0.231,0.769,0.0
+2020-12-03,Google now lets anyone contribute to Street View using AR and an app,0.0,0.0,0.0,0.0,1.0,0.0
+2020-12-03,US Labor Board Alleges Google Of Unfair Labor Practices ,1.0,-0.5,-0.4767,0.279,0.721,0.0
+2020-12-03,"Airbnb IPO: Just Because You Love the Service, Should You Buy the Stock?",0.6,0.5,0.6369,0.0,0.741,0.259
+2020-12-02,Google faces complaint from NLRB alleging surveillance of employees and other labor violations,0.2875,-0.2125,-0.6808,0.337,0.663,0.0
+2020-12-02,Federal Labor Agency Says Google Wrongly Fired 2 Employees,0.9,-0.5,-0.5574,0.34,0.66,0.0
+2020-12-02,Google shutting down Poly 3D content platform,0.2888888888888889,-0.15555555555555559,0.0,0.0,1.0,0.0
+2020-12-02,Up to 40 states plan to sue Facebook for antitrust next week - CNBC,0.0,0.0,0.0,0.0,1.0,0.0
+2020-12-02,A $200 Million Pizza! Here’s How Bitcoin Made That Possible …,1.0,0.0,0.0,0.0,1.0,0.0
+2020-12-02,Twitter now supports hardware security keys for iPhones and Android,0.0,0.0,0.5994,0.0,0.62,0.38
+2020-12-02,4 AI Stocks That Are Helping the World Make Smarter Decisions,0.0,0.0,0.6369,0.0,0.606,0.394
+2020-12-02,": Google wrongfully spied on and terminated employees, NLRB complaint says",0.2,-0.3,-0.296,0.196,0.804,0.0
+2020-12-02,The 7 Best Startups You Can Buy on Republic Right Now,0.4178571428571428,0.6428571428571428,0.6369,0.0,0.682,0.318
+2020-12-02,Google acquires Actifio to step into the area of data management and business continuity,0.0,0.0,0.0,0.0,1.0,0.0
+2020-12-02,Loon’s stratospheric balloons are now teaching themselves to fly better thanks to Google AI,0.5333333333333333,0.5,0.7003,0.0,0.674,0.326
+2020-12-02,Google says its News Showcase will add free access to paywalled stories,0.8,0.4,0.5106,0.0,0.769,0.231
+2020-12-02,8 Travel Stocks Celebrating The Positive Vaccine News,0.5454545454545454,0.22727272727272727,0.8074,0.0,0.407,0.593
+2020-12-02,A Chime IPO Is Likely Right Around the Corner,0.7678571428571428,0.14285714285714285,0.0,0.0,1.0,0.0
+2020-12-02,7 Of The Best Long-Term Tech Stocks To Buy As Sector Looks Ready to Charge,0.4,0.6,0.7717,0.0,0.642,0.358
+2020-12-01,Google Maps takes on Facebook with launch of its own news feed,1.0,0.6,0.0,0.0,1.0,0.0
+2020-12-01,"Google launches Android Enterprise Essentials, a mobile device management service for small businesses",0.4,-0.25,0.0,0.0,1.0,0.0
+2020-12-01,2 Reasons Amazon Will Keep Taking Ad Sales From Google,0.0,0.0,0.1779,0.0,0.825,0.175
+2020-12-01,7 Machine Learning Stocks for a Smarter Future,0.125,0.0,0.4588,0.0,0.625,0.375
+2020-12-01,"The Zacks Analyst Blog Highlights: Amazon, Google, Zoom Video, Automatic Data Processing and Moderna",0.0,0.0,0.1779,0.0,0.884,0.116
+2020-12-01,Here’s What You Need to Know Heading into the Roblox IPO,0.0,0.0,0.0,0.0,1.0,0.0
+2020-12-01,4 Chinese Tech Stocks to Buy Despite Potential Regulation,0.5,0.0,0.0,0.0,1.0,0.0
+2020-12-01,Google Play’s Best of 2020 Awards highlight the stressful year it’s been,0.3,1.0,0.743,0.158,0.383,0.459
+2020-12-01,Google Play’s best games of 2020 — Genshin Impact is the big winner,0.2,0.5,0.8402,0.0,0.556,0.444
+2020-12-01,Amazon Web Services installing Macs to enable remote Apple app development,0.2,-0.1,0.1779,0.0,0.855,0.145
+2020-11-30,Nvidia Stock: Expensive But Still Worth It?,0.39999999999999997,-0.1,0.2263,0.0,0.759,0.241
+2020-11-30,Apple Stock Profits Are Short and Long Term Opportunities,0.35,-0.025,0.6705,0.0,0.56,0.44
+2020-11-30,Facebook and Google accused of complicity in Vietnam censorship,0.0,0.0,-0.296,0.216,0.784,0.0
+2020-11-30,The Wall Street Journal: Facebook and Google set to face new antitrust suits in U.S.,0.45454545454545453,0.13636363636363635,0.0,0.0,1.0,0.0
+2020-11-30,Slack Just Got a Lifeline from Salesforce Buyout Talks,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-28,Netflix to begin declaring UK revenues to British tax authorities,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-27,"No Google-Fitbit merger without human rights remedies, says Amnesty to EU",0.1,0.0,-0.296,0.18,0.82,0.0
+2020-11-26,"People’s movement to work ‘down a third’ since October, says Google",0.14444444444444446,-0.07777777777777779,0.0,0.0,1.0,0.0
+2020-11-26,Companies plead with EU regulators for action on Google,0.1,0.1,0.0,0.0,1.0,0.0
+2020-11-25,Small businesses should embrace Google and Facebook for momentum amid pandemic,0.4,-0.25,0.3182,0.0,0.813,0.187
+2020-11-25,Google ordered to hand over emails in £453m divorce battle ,0.0,0.0,0.1531,0.188,0.58,0.232
+2020-11-25,4 AI Stocks on the Cutting Edge,0.9,-0.6,-0.128,0.231,0.769,0.0
+2020-11-25,3 Tech Stocks to Buy As the Nasdaq Makes a Comeback,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-25,JFrog: Riding The Software Revolution,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-25,"Alibaba Stock Woes Won’t Last, So Stay Long in the Shares Into 2021",0.23333333333333334,-0.025,-0.1779,0.18,0.683,0.137
+2020-11-25,"Google Plans $400 Mln Fiber-Optic Network To Connect Through Saudi Arabia, Israel : WSJ ",0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-25,YouTube suspends One America News for violating COVID-19 policy,0.0,0.0,-0.5423,0.304,0.696,0.0
+2020-11-24,TSMC and Google push chipmaking boundaries with 3D ‘stacking’,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-24,Google Trends shows ‘Bitcoin’ searches at 2020 high as BTC tops $19.4K  ,0.5399999999999999,0.16,0.5106,0.0,0.769,0.231
+2020-11-24,A Way to Cash In on Tech Stocks Next Year,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-24,DOJ's Google-Fitbit deal ruling not expected until after Europe weighs in - CTFN,0.4,0.05,0.0,0.0,1.0,0.0
+2020-11-24,Apple (AAPL) Seeks Tough Data Protection in Google Lawsuit,0.8333333333333334,-0.3888888888888889,-0.34,0.327,0.673,0.0
+2020-11-24,Google discussing $1B deal to acquire India's ShareChat - report,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-24,How to Build a Core and Satellite Portfolio of EV Stocks,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-24,Google facing antitrust suit from second group of U.S. states - Reuters,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-24,"Israel, Saudi Arabia may come together for Google fiber-optic network",0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-24,Google-backed Chinese truck-hailing firm Manbang raises $1.7 billion,0.2,-0.1,0.0,0.0,1.0,0.0
+2020-11-23,Google has deployed 'father of the internet' Vint Cerf to slam Australia's proposed news media bargaining code,0.0,0.0,-0.3818,0.14,0.86,0.0
+2020-11-23,7 Upcoming IPOs to Watch Heading Into 2021,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-23,UK lobbyists press watchdog to probe Google's ad data revamp,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-23,Slack Shares Might Start to Slack Off,0.0,0.0,0.296,0.0,0.732,0.268
+2020-11-23,: Google Cloud is creating a new type of digital banking platform with this lender,0.22727272727272727,0.06818181818181818,0.296,0.0,0.845,0.155
+2020-11-23,Russia watchdog opens case against Google over search engine content,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-23,Google faces UK scrutiny over new advertising data revamp,0.45454545454545453,0.13636363636363635,0.0,0.0,1.0,0.0
+2020-11-23,Google brings ‘The Mandalorian’ to AR in its new app,0.45454545454545453,0.13636363636363635,0.0,0.0,1.0,0.0
+2020-11-23,Foxconn's troubled Wisconsin factory producing Google server components - Bloomberg,1.0,-0.5,-0.4588,0.273,0.727,0.0
+2020-11-21,Google: Garage owner takes on tech firm over fake reviews,0.7,-0.35,-0.4767,0.256,0.744,0.0
+2020-11-21,Review: Google Pixel 5,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-20,"Fake Uniswap app on Google Play Store has already lost one user $20,000",1.0,-0.5,-0.4588,0.303,0.562,0.135
+2020-11-20,ProBeat: Google will eventually sell ads against your financial data,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-20,7 Cybersecurity Stocks To Buy For Defense Against The Dark Web,0.4,-0.15,0.128,0.0,0.857,0.143
+2020-11-20,Google proposes applying AI to patent application generation and categorization,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-20,"Google, Facebook and Twitter threaten to leave Pakistan over censorship law",0.0,0.0,-0.4215,0.297,0.703,0.0
+2020-11-20,7 Hot Stocks to Buy Before 2021 Ushers in Change,0.8500000000000001,0.25,0.0,0.0,1.0,0.0
+2020-11-20,"Fitbit OS update brings Google Assistant into Sense, Versa 3 smartwatches",0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-20,"The Zacks Analyst Blog Highlights: Google, Microsoft, Texas Instruments, NVIDIA and Skyworks Solutions ",0.0,0.0,0.1779,0.0,0.876,0.124
+2020-11-20,Korean lawmakers call on Google to reduce app store fees like Apple ,0.0,0.0,0.3612,0.0,0.815,0.185
+2020-11-19,Apple and Google have told the ACCC that their app marketplaces encourage competition - but a major developer disagrees,0.5,0.0625,-0.2023,0.147,0.746,0.107
+2020-11-19,Google Updates Pay App To Include Bank Accounts ,0.0,0.0,-0.1027,0.167,0.833,0.0
+2020-11-19,The 7 Best Startups You Can Buy on SeedInvest Right Now,0.4178571428571428,0.6428571428571428,0.6369,0.0,0.682,0.318
+2020-11-19,Google Pay: checks and balances,0.0,0.0,-0.1027,0.259,0.741,0.0
+2020-11-19,Google Pay: checks and balances,0.0,0.0,-0.1027,0.259,0.741,0.0
+2020-11-19,Google Stadia and GeForce Now are both coming to iOS as web apps,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-19,Google revamps its strategy towards banking,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-19,"Google rolls out iOS widgets for Gmail, Drive and Fit; says Calendar and Chrome coming soon",0.4,0.4,0.3612,0.0,0.857,0.143
+2020-11-19,Google plans to test end-to-end encryption in Android messages,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-19,"Cable giant Malone praises new streaming gatekeepers: Amazon (AMZN), Apple (AAPL), Roku",0.7272727272727273,0.06818181818181818,0.6249,0.0,0.662,0.338
+2020-11-19,7 Great Buy-and-Hold Growth Stocks,0.75,0.8,0.7717,0.0,0.23,0.77
+2020-11-19,Rwanda smelter uses blockchain to comply with EU Conflict Mineral Regulation,0.0,0.0,-0.3182,0.187,0.813,0.0
+2020-11-19,Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform,0.9,0.6,0.6808,0.0,0.68,0.32
+2020-11-19,Square stock rises 3.5% as KBW says Google Pay faces hurdles in taking on fintechs,0.0,0.0,-0.1027,0.091,0.909,0.0
+2020-11-19,Companies plead with EU regulators for action on Google,0.1,0.1,0.0,0.0,1.0,0.0
+2020-11-19,Battlepalooza is the first battle royale to use Google Maps for levels,0.3333333333333333,0.25,-0.3818,0.191,0.809,0.0
+2020-11-19,Wait on Investor Rotation for Zoom Video,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-19,News24.com | Google to integrate bank accounts in payments app,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-18,: Google will let users get digital bank accounts through its mobile wallet,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-18,Apple releases forked version of TensorFlow optimized for macOS Big Sur,0.1,0.0,0.4588,0.0,0.769,0.231
+2020-11-18,4 Tech ETFs to Play the Top Trends,0.5,0.5,0.4939,0.0,0.543,0.457
+2020-11-18,Google Pay gets a major redesign with a new emphasis on personal finance,0.4181818181818182,0.06628787878787878,-0.1027,0.123,0.877,0.0
+2020-11-18,"Google moves harder into finance, offering bank accounts with Citi through revamped app",0.0,-0.1,0.0,0.0,1.0,0.0
+2020-11-18,"TSMC (TSM) stock gains on report that Google, AMD signed up for new chip tech",0.45454545454545453,0.13636363636363635,0.34,0.0,0.854,0.146
+2020-11-17,Google has created an AI-powered nightmare creature generator,0.0,0.0,0.25,0.0,0.778,0.222
+2020-11-17,Big Tech Isn’t the Key to Big Profits … This Is,0.4000000000000001,0.0,0.4404,0.0,0.756,0.244
+2020-11-17,"Chrome 87 brings tab throttling, Occlusion Tracking on Windows, back/forward cache on Android",0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-17,"The Zacks Analyst Blog Highlights: Google, Lenovo, Apple, Hewlett Packard Enterprise and Dell",0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-17,Google updates Maps with more COVID info and finally launches its Assistant driving mode,0.75,0.25,0.0,0.0,1.0,0.0
+2020-11-17,Google Maps gains driving mode and food delivery statuses,0.0,0.0,0.34,0.0,0.769,0.231
+2020-11-16,7 Hot Stocks for Post-Election Investing in Biden’s America,0.8500000000000001,0.25,0.0,0.0,1.0,0.0
+2020-11-16,Megacap selling may be more about Biden tax policy than sector malaise – Oppenheimer,0.5,0.5,0.0,0.0,1.0,0.0
+2020-11-16,Alphabet's (GOOGL) Google Plans a New Campus Near Seattle,0.42727272727272725,0.11818181818181818,0.0,0.0,1.0,0.0
+2020-11-16,8 Overvalued Stocks to Sell in November,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-16,Take Buffett’s Advice: 5 Vanguard Funds to Buy,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-16,Google updates COVID-19 forecasting models with longer time horizons and new regions,0.45454545454545453,0.13636363636363635,0.0,0.0,1.0,0.0
+2020-11-14,"Free unlimited photo storage is a thing of the past - thanks a lot, Google. So what to do?",0.4166666666666667,0.11666666666666668,0.7351,0.0,0.693,0.307
+2020-11-14,Review: Google Chromecast with Google TV,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-13,"Google pulls the plug on Expeditions VR app, migrates tours to Arts & Culture",0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-13,"Turkey Fines Google For Online Search Dominance, Gives 6-Month Deadline To Make Changes",0.0,0.0,0.2023,0.0,0.87,0.13
+2020-11-13,ProBeat: Google still needs you to label photos for its ML,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-13,7 Telehealth Stocks To Buy Ahead Of Flu Season,0.0,0.0,-0.3818,0.271,0.729,0.0
+2020-11-13,Turkey fines Google $25.5M for abusing search dominance,0.0,0.0,-0.296,0.278,0.556,0.167
+2020-11-13,"Dems Term Facebook, Google Political Ad Ban Extensions 'Voter Suppression' As Runoffs Loom",0.1,0.0,-0.6705,0.333,0.667,0.0
+2020-11-13,Growing Free Cash Flow Could Boost Facebook Stock To $370,0.8,0.4,0.7717,0.0,0.476,0.524
+2020-11-13,Google apologises to Thierry Breton over plan to target EU commissioner,0.0,0.0,0.2023,0.0,0.847,0.153
+2020-11-12,Google responds to Costello criticisms,0.0,0.0,-0.2263,0.322,0.678,0.0
+2020-11-12,Google Photos sets store by storage,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-12,: Google is being targeted by these tech companies urging regulators to take action against its ‘clear abuse of dominance’,0.24166666666666664,0.1,-0.6369,0.189,0.811,0.0
+2020-11-12,Android gains support for hardware-accelerated PyTorch inference,0.0,0.0,0.6249,0.0,0.495,0.505
+2020-11-12,"Act now before Google kills us, 135-strong coalition of startups warns EU antitrust chief",0.0,0.0,-0.5994,0.29,0.71,0.0
+2020-11-12,Google catches up to AWS and Azure with new database migration service,0.45454545454545453,0.13636363636363635,0.0,0.0,1.0,0.0
+2020-11-12,How Google built its AI-powered Hum to Search feature,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-12,News24.com | WATCH | Group of 165 Google critics call for EU action,0.1,0.1,-0.296,0.18,0.82,0.0
+2020-11-12,"Morgan Stanley sees Facebook, Google, Pinterest gaining from online ad comeback",0.0,0.0,0.4215,0.0,0.781,0.219
+2020-11-12,"Google To Limit High-quality Photo, Video Storage From June 2021 ",0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-12,AMZN Stock Is the Gift That Keeps on Giving,0.0,0.0,0.6486,0.0,0.569,0.431
+2020-11-12,YouTube Back After Global Outage ,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-12,Apple iPhone 12 to Playstation 5: Here are some of the items Google predicts will trend,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-12,"Google releases predictions of popular holiday gifts from Apple iPhone, PlayStation 5 to Fat Brain Simpl Dimpl",0.9,0.6,0.6705,0.0,0.718,0.282
+2020-11-12,5 Great Robotics Stocks That Offer Stake in the New Way Work Gets Done,0.6022727272727273,0.4681818181818182,0.6249,0.0,0.745,0.255
+2020-11-11,Andrew Yang Backs Chrome Users In Privacy Battle Against Google,0.0,0.0,-0.4215,0.322,0.678,0.0
+2020-11-11,"Daily Crunch: Google Photos will end free, unlimited storage",0.4,0.2,0.5106,0.0,0.708,0.292
+2020-11-11,"RIP Google Music, one of the company’s last examples of generosity",0.06666666666666667,0.0,0.5106,0.0,0.752,0.248
+2020-11-11,"Come June 1, 2021, all of your new photos will count against your free Google storage",0.6272727272727273,0.2681818181818182,0.5106,0.0,0.82,0.18
+2020-11-11,Don’t Get Too Excited About Marin Software’s Recent Bounce,0.5,0.1875,0.34,0.0,0.769,0.231
+2020-11-11,Facebook and Google quietly extend bans on political advertising,0.21666666666666667,0.0,0.1779,0.0,0.825,0.175
+2020-11-11,"Facebook, Google extend post-election political ad ban",0.1,0.0,-0.4404,0.35,0.485,0.165
+2020-11-10,Google adds COVID-related health and safety info to Google Travel,0.0,0.0,0.4215,0.0,0.763,0.237
+2020-11-10,Skyrocketing Telehealth Use Will Propel American Well Stock,0.0,0.0,0.2732,0.0,0.769,0.231
+2020-11-10,Google Battles Marketers Over Antitrust Claims,0.0,0.0,-0.3818,0.342,0.658,0.0
+2020-11-10,3 Telehealth Stocks for a Second Wave,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-10,Declining iPhone Sales Shouldn’t Define Apple,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-10,Tesla’s Public FSD Beta Is A Huge Mistake,0.48333333333333334,0.20000000000000004,-0.0258,0.247,0.515,0.237
+2020-11-10,"After Crushing It in 2020, Apple Stock May Level off in 2021",0.9,0.4,-0.3612,0.185,0.815,0.0
+2020-11-10,6 Streaming Stocks to Keep Your Eye On,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-10,India's competition watchdog takes aim at Google,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-10,"Covid vaccine, Nikola earnings, India vs Google ",0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-09,India’s competition watchdog orders Google investigation,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-09,7 Dow Jones Stocks to Buy for the Post-Election Surge,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-09,India opens antitrust case against Google over its payments app,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-09,"Google, Amazon, Microsoft, Disney and Cisco are part of Zacks Earnings Preview",0.0,0.0,0.1779,0.0,0.866,0.134
+2020-11-07,"News24.com | Maybe I should Google 'supplier development', Kwinana tells Zondo on Air France bid",0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-07,"News24.com | Maybe I should Google supplier development, Kwinana tells Zondo on Air France bid",0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-06,How to Trade Apple Stock in the Wake of the Election,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-06,Why Netflix Is Worth More Than Disney,0.3,0.4,0.2263,0.0,0.759,0.241
+2020-11-06,Mogo News: Why MOGO Stock Is Soaring 30% Today,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-06,7 Autonomous Vehicle Stocks to Buy As Transpiration Enters a New Era,0.5772727272727273,0.2681818181818182,0.0,0.0,1.0,0.0
+2020-11-06,Marin Software: Is It Worth The Risk?,0.1,0.3,-0.0516,0.233,0.556,0.211
+2020-11-06,"News Corp. leads its sector as Alphabet, Facebook take a break: At the Open",0.5,0.0,0.0,0.0,1.0,0.0
+2020-11-06,"For Alphabet, YouTube Is a Dominant TV Network",0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-06,Facebook's WhatsApp expands mobile payments push in India,0.0,0.0,0.1027,0.0,0.833,0.167
+2020-11-05,7 Augmented Reality Stocks To Buy Now For The Future,0.125,0.0,0.0,0.0,1.0,0.0
+2020-11-05,3 AI Stocks to Buy Regardless,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-05,3 Stocks to Buy That Won Big on Earnings,0.1,0.0,0.5719,0.0,0.654,0.346
+2020-11-05,7 5G ETFs to Invest In As the World Switches Over,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-05,Google and Walmart face growth hurdles as India caps payments transactions,0.0,0.0,0.3818,0.0,0.794,0.206
+2020-11-05,Investors Should Let the Palantir Dust Settle Before Choosing a Side,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-05,"Election playbook of low rates, Big Tech marches on: At the Open",0.3,0.0,-0.2732,0.16,0.84,0.0
+2020-11-04,The Margin: Google searches for ‘coffee’ and ‘liquor stores’ break records as election results trickle in ,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-04,"Fitbit ticks up after Q3 revenues gain, losses pared",0.0,0.0,0.1779,0.206,0.534,0.26
+2020-11-04,Google launches Document AI suite of parsing and processing tools in preview,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-04,Comcast Is on the Wrong Side of the Long-Term Future,0.5125,-0.25,-0.4767,0.256,0.744,0.0
+2020-11-04,Project Syndicate: Breaking up Google and the rest of Big Tech wouldn’t be enough to fix our innovation problems,0.3,0.0,-0.0258,0.121,0.762,0.117
+2020-11-04,Dropbox Is Still Not the Cloud Stock I’d Bet On,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-04,7 Unicorn Startups to Watch Into 2021,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-04,7 IOT Stocks to Buy As the World Embraces a Hyper-Connected Future,0.125,0.0,0.0,0.0,1.0,0.0
+2020-11-04,"The Zacks Analyst Blog Highlights: Google, Johnson & Johnson, Union Pacific Corp, Eli Lilly, Charter Communications and Anheuser-Busch InBev",0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-04,"Megacaps jump, rates sink as votes still counted: At the Open",0.5,0.0,0.0,0.0,1.0,0.0
+2020-11-04,"At These Prices, the Clock Might Be Ticking on Roku Stock",0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-03,20 Election Stocks to Buy if Donald Trump Wins in 2020,0.2,0.3,0.5719,0.0,0.73,0.27
+2020-11-03,Apple’s Content Gold Rush May Have Just Started,0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-03,What Big Tech is looking out for as Election Day begins,0.1,0.0,0.0,0.0,1.0,0.0
+2020-11-02,Why Apple Might Lose The US Government’s War On Google,0.0,0.0,-0.765,0.452,0.548,0.0
+2020-11-02,7 Election Stocks to Buy With Bipartisan Strength,0.0,0.0,0.4939,0.0,0.652,0.348
+2020-11-02,8 Stocks and Sectors That Will Lose Their Shine on Wall Street,0.0,0.0,-0.4019,0.213,0.787,0.0
+2020-11-02,"YouTube TV Subs Pass 3M; YouTube Q3 Ad Revenue Up 32%, Google Up 9%",0.0,0.0,0.0,0.0,1.0,0.0
+2020-11-02,Seize Opportunity and Buy the Pullback in Dropbox,0.0,0.0,0.4215,0.0,0.714,0.286
+2020-11-02,Walmart’s PhonePe zips past Google Pay in India as UPI tops 2B monthly transactions,0.25,-0.25,0.4404,0.084,0.719,0.198
+2020-11-01,"Government mulls weaker tech giant rules amid fierce Google, Facebook lobbying",1.0,0.0,-0.4939,0.318,0.682,0.0
+2020-10-31,Hollywood Blockbuster Deal: This ‘Secret’ Market Is Now Open …,0.6,-0.2,0.5994,0.0,0.672,0.328
+2020-10-31,Former Google lawyer joins spate of high-profile attorneys entering crypto,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-31,Cloud infrastructure spending grew 33% in Q3; Amazon and Microsoft led market,0.0,0.0,0.1779,0.0,0.866,0.134
+2020-10-30,Q3 earnings find Apple and Google looking to the future for hardware rebounds,0.125,0.0,0.0,0.0,1.0,0.0
+2020-10-30,Google reveals a new Windows zero-day bug it says is under active attack,0.5272727272727272,0.001515151515151511,-0.1027,0.196,0.633,0.171
+2020-10-30,Were FAANG Stocks Declawed by Mixed Earnings?,0.25,0.0,0.0,0.0,1.0,0.0
+2020-10-30,"4 Top Stock Trades for Monday: AMZN, TWTR, SBUX, UAA",0.5,0.5,0.2023,0.0,0.816,0.184
+2020-10-30,YouTube TV to cut NESN in further cull of sports networks,0.5,0.0,-0.2732,0.174,0.826,0.0
+2020-10-30,Will Google ETFs Keep Shining on Q3 Earnings Optimism?,0.0,0.0,0.5423,0.0,0.696,0.304
+2020-10-30,Nokia Stock Gets Slammed Again,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-30,Google says its Parallel Tacotron model generates synthetic voices 13 times faster than its predecessor,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-30,Plant an App: Riding the Low-Code Wave,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-30,"The Zacks Analyst Blog Highlights: Amazon, Google, Facebook, Starbucks and Apple",0.0,0.0,0.1779,0.0,0.855,0.145
+2020-10-30,"The Ratings Game: Promise of transparency on Google Cloud results cheers Wall Street, Alphabet stock climbs",0.4,-0.4,0.6597,0.0,0.722,0.278
+2020-10-30,Stock Alert: Google's Parent Trading 6% Higher On Q3 Results ,0.5,0.25,0.296,0.0,0.804,0.196
+2020-10-29,"MarketWatch First Take: Apple, Amazon, Facebook and Google all produce record sales amid Big Tech backlash",0.21666666666666667,0.125,0.1779,0.0,0.898,0.102
+2020-10-29,"Google Parent Alphabet Q3 Profit, Revenues Beat Wall Street View; Shares Up 7% ",0.0,0.0,0.6249,0.0,0.683,0.317
+2020-10-29,Daily Crunch: Google had a good quarter,0.30000000000000004,0.35,0.4404,0.0,0.633,0.367
+2020-10-29,"Amazon, Apple, Google, Facebook: Tech giants report higher profits",0.5,0.25,0.5574,0.0,0.603,0.397
+2020-10-29,"For Amazon, Apple, Facebook and Google business is booming",0.0,0.0,0.1779,0.0,0.825,0.175
+2020-10-29,Alphabet call: Better view into Cloud coming; early days for shopping/YouTube prospects,0.4,0.3,0.6249,0.0,0.662,0.338
+2020-10-29,Alphabet sales growth back as Google flooded with advertisers,0.0,0.0,0.3818,0.0,0.755,0.245
+2020-10-29,Google Earnings Top Views As Internet Search Advertising Rebounds Amid Covid-19,0.5,0.5,0.2023,0.0,0.847,0.153
+2020-10-29,Google ad sales bounce back sharply from pandemic slump,0.375,-0.0625,0.0,0.0,1.0,0.0
+2020-10-29,Google parent Alphabet returns to sales growth in Q3 2020 as advertising recovers from the pandemic,0.0,0.0,0.3818,0.0,0.852,0.148
+2020-10-29,Alphabet Inc. Earnings Rise In Q3,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-29,Google tests a helpful app comparison feature on Google Play,0.0,0.0,0.6369,0.0,0.574,0.426
+2020-10-29,Google brings Halloween to life using augmented reality,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-29,"4 Top Stock Trades for Friday: AAPL, GOOGL, SPOT, ATVI",0.5,0.5,0.2023,0.0,0.816,0.184
+2020-10-29,Earnings Results: Alphabet stock surges as resurgent Google ad sales deliver big earnings beat,0.1,0.0,0.0,0.0,1.0,0.0
+2020-10-29,Search Guru: Google Still Allowing Political Ad Disinformation,0.1,0.0,0.0,0.0,1.0,0.0
+2020-10-29,3 Quantum Computing Stocks That Are Leading the Way,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-29,9 Stocks to Buy For the Tide Change of Millennial Investors,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-29,Alphabet A (ex Google) hosts conference call for investors,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-29,'Expect the recovery in digital ad trends to continue': Here's what 4 analysts expect from Alphabet's 3rd quarter earnings report,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-29,"Twitter, Google, Facebook CEOs defend key internet law before US Senate panel ",1.0,0.0,0.0,0.0,1.0,0.0
+2020-10-29,Is Apple Stepping Up Search Engine Push As Google Faces Regulatory Fire?,0.0,0.0,-0.34,0.179,0.821,0.0
+2020-10-29,Big Tech earnings follow Big Tech testimony,0.1,0.0,0.0,0.0,1.0,0.0
+2020-10-28,The Big Breakout You’re Not Hearing About,0.1,0.0,0.0,0.0,1.0,0.0
+2020-10-28,4 Strategies To Prepare Your Portfolio Now for 2030,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-28,"Apple search crawler activity could signal a Google competitor, or a bid to make Siri a one-stop-shop",0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-28,3 Stocks to Trade on Quarterly Earnings,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-28,7 AI Stocks to Buy as Automation Advances,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-28,Internal Google document reveals campaign against EU lawmakers,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-28,Apple Develops Its Own Search Tools as Google Defends Against Antitrust Probe,1.0,0.6,0.0,0.0,1.0,0.0
+2020-10-28,"With the Election Looming, Palantir Stock Looks Too Risky",0.0,0.0,-0.3182,0.32,0.68,0.0
+2020-10-28,"Google Search Boycott: Brands, Agencies Buzz About Possibilities",0.0,0.0,-0.3182,0.247,0.753,0.0
+2020-10-28,"The Zacks Analyst Blog Highlights: Amazon, Microsoft, Google and IBM",0.0,0.0,0.1779,0.0,0.841,0.159
+2020-10-28,Here's what Wall Street expects from Alphabet A (ex Google)'s earnings,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-28,Italian Antitrust Watchdog Probes Google For Alleged Abuse Of Dominant Position ,0.05,-0.05,-0.6369,0.296,0.704,0.0
+2020-10-28,"Harris Poll Reveals A Quarter Of Advertisers Boycotted Google, Too",0.0,0.0,-0.4019,0.252,0.748,0.0
+2020-10-28,": Facebook, Google, Twitter CEOs take heat in Senate over content",0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-28,Tech CEOs starting contentious Senate committee hearing on legal protections (updated),0.15000000000000002,0.1,-0.1779,0.173,0.709,0.118
+2020-10-28,Better Buy: Facebook vs. Google,0.5,0.5,0.4404,0.0,0.58,0.42
+2020-10-28,There’s More Than Just Covid to the Spectacular Quibi Failure,0.5666666666666667,0.2611111111111111,-0.5106,0.268,0.732,0.0
+2020-10-28,Service of First Resort Social Capital Hedosophia Stock Is Awfully Convincing,0.4666666666666666,0.2611111111111111,0.4576,0.0,0.77,0.23
+2020-10-28,Apple Works On Its Own Search Engine As Regulators Turn Up Heat On Google Deal: FT,1.0,0.6,0.0,0.0,1.0,0.0
+2020-10-28,The Case Against Google,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-28,Apple bolsters search as Google/DOJ threat looms - FT,0.0,0.0,-0.6124,0.455,0.545,0.0
+2020-10-28,Apple develops alternative to Google search,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-27,"Watch Facebook, Google, and Twitter’s CEOs defend the law that created social media to Congress",0.06666666666666667,0.03333333333333333,0.25,0.0,0.875,0.125
+2020-10-27,"Google’s EU Android choice screen isn’t working say search rivals, calling for a joint process to devise a fair remedy",0.9,0.7,0.3182,0.0,0.881,0.119
+2020-10-27,Facebook's Zuckerberg says Section 230 is important but needs update,1.0,0.4,0.1027,0.0,0.865,0.135
+2020-10-27,Twitter's Dorsey says eroding Section 230 could 'collapse' Internet communication,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-27,Google updates Firebase with new emulator and data analysis tools,0.45454545454545453,0.13636363636363635,0.0,0.0,1.0,0.0
+2020-10-27,Alphabet switches to majority voting for directors,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-27,"Google confirms post-Election Day political ad ban, partners with AP on election results",0.1,0.0,-0.5574,0.231,0.769,0.0
+2020-10-27,Google Search rivals urge EU to revisit Android antitrust case,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-27,Google Antitrust Suit Could Upend Apple’s Services Business,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-27,7 Cheap Index Funds for the Careful Investor,0.85,0.15000000000000002,0.1531,0.0,0.789,0.211
+2020-10-27,US antitrust case against Google a welcome start ,0.9,0.8,0.4588,0.0,0.667,0.333
+2020-10-27,Virtusa Corporation : Virtusa Demonstrates Cloud Technology and Industry Expertise with Google Cloud,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-27,Don’t Let the Competition Scare You Away From Slack Stock,0.0,0.0,-0.4939,0.262,0.738,0.0
+2020-10-27,Facebook steps into cloud gaming arena,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-26,Google antitrust case has status hearing set for Friday,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-26,"Fragomen, a law firm used by Google, confirms data breach",0.4,-0.2,0.0,0.0,1.0,0.0
+2020-10-26,"Google open-sources MT5, a multilingual model trained on over 101 languages",0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-26,3 Beaten Down Stocks to Buy That Are So Bad They Could Be Good,0.5185185185185185,-0.051851851851851816,-0.5709,0.338,0.513,0.149
+2020-10-26,Will Google go the way of Microsoft?,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-26,5 Stocks to Buy Now for a Post-Pandemic Era,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-26,"Facebook, Google and Microsoft 'avoiding $3bn in tax in poorer nations'",0.0,0.0,-0.5994,0.353,0.647,0.0
+2020-10-26,Mirada PLC : Commercial launch of Android TV for izzi,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-25,Sector Watch: Social media needs to justify the Snap rally,0.06666666666666667,0.03333333333333333,0.0,0.0,1.0,0.0
+2020-10-25,"Apple, Google and a Deal That Controls the Internet",0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-24,Can the Department of Justice teach Google how to share?,0.0,0.0,0.6808,0.0,0.588,0.412
+2020-10-23,BofA weighs election scenarios for impact on Internet names big and small,0.25,-0.125,0.0,0.0,1.0,0.0
+2020-10-23,Google lawsuit: opening salvo in a battle to restrain Big Tech,0.1,0.0,-0.5423,0.36,0.64,0.0
+2020-10-23,"As Shares Tread Water, Wait for a Pullback With Apple",0.0,0.0,0.296,0.0,0.784,0.216
+2020-10-23,Do Not Chase This Big Rally in Twitter Stock Above $50,0.1,0.0,0.0,0.0,1.0,0.0
+2020-10-23,Strong Earnings Will Trump Political Risks for GOOG Stock,0.41666666666666663,0.21666666666666665,0.296,0.169,0.565,0.266
+2020-10-23,6 Tech Stocks Every Investor Should Watch,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-23,The Top 10 Tech Stocks to Buy Before the 2020 Election,0.5,0.5,0.2023,0.0,0.847,0.153
+2020-10-23,Pinterest Still Has More Upside in Coming Months,0.5,0.5,0.0,0.0,1.0,0.0
+2020-10-23,"Google removes 3 Android apps for children, with 20M+ downloads between them, over data collection violations",0.0,0.0,-0.5267,0.195,0.805,0.0
+2020-10-23,Instagram expands test of live-stream tipping feature,0.0,0.0,0.1027,0.0,0.811,0.189
+2020-10-23,Driverless Vehicles Will Power Alphabet Stock Before You Know It,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-23,This Overcorrection Is a Great Chance to Get in on Fastly Stock,0.675,0.5,0.7269,0.0,0.596,0.404
+2020-10-23,All I did was Google 'Antitrust' ,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-22,Sabre Launching AI Travel Platform Developed With Google,0.3,0.1,0.0,0.0,1.0,0.0
+2020-10-22,Earnings Watch: Alphabet earnings: Antitrust charges cast long shadow over Google,0.4,-0.05,-0.2732,0.174,0.826,0.0
+2020-10-22,FTC huddling as end to Facebook antitrust probe nears - report,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-22,iOS 14.1 makes 5G only a little less confusing than Android 11,0.4916666666666667,-0.16354166666666664,-0.0846,0.117,0.883,0.0
+2020-10-22,"Bitcoin Breakout: Eat My Dust Amazon, Apple, Facebook And Google",0.0,0.0,0.1779,0.0,0.841,0.159
+2020-10-22,"Google Gets Closer To Targeting Ads Based On Personalization, Privacy",0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-22,In One Chart: Trump’s advantage over Biden in spending on Facebook and Google ads — in one chart,0.0,0.0,0.25,0.0,0.889,0.111
+2020-10-22,DoJ case puts the detente between Google and Microsoft in spotlight,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-22,Why Bruised Apple Stock May Grow More Rotten,0.5,0.5,-0.5563,0.339,0.661,0.0
+2020-10-22,Sabre teams with Google on travel AI platform; shares up 15%,0.0,0.0,0.296,0.0,0.82,0.18
+2020-10-22,New Antitrust Suit Makes Google the New Microsoft,0.45454545454545453,0.13636363636363635,0.0,0.0,1.0,0.0
+2020-10-22,Google Maps launches a new developer solution for on-demand ride and delivery companies,0.45454545454545453,0.13636363636363635,0.3182,0.0,0.827,0.173
+2020-10-22,Google Maps Platform targets on-demand rides and deliveries with new location and routing tools,0.45454545454545453,0.13636363636363635,0.0,0.0,1.0,0.0
+2020-10-22,Roblox IPO:  Looking To Play the IPO Game,0.4,-0.4,0.34,0.0,0.745,0.255
+2020-10-22,Why Alexa Will Continue to Power Amazon Stock Higher Beyond 2020,0.5,0.25,0.1779,0.0,0.855,0.145
+2020-10-22,"Senate Judiciary OKs subpoenas for Facebook, Twitter CEOs over story blocks",0.0,0.0,-0.2263,0.16,0.84,0.0
+2020-10-22,Top Investigator in Google Case Says There ‘Was Not a Rush’ to Sue,0.5,0.5,0.2023,0.0,0.859,0.141
+2020-10-22,Total & Google Cloud Develop Solar Mapper,0.75,0.0,0.0,0.0,1.0,0.0
+2020-10-21,Apple and Google: Big Tech's unlikely 'frenemies',0.3,-0.25,0.0,0.0,1.0,0.0
+2020-10-21,Should You Be Worried About the Google Lawsuit?,0.0,0.0,-0.4767,0.406,0.594,0.0
+2020-10-21,"Slack Falls by 6.3% on Bearish Analyst Note About Rivals Microsoft, Zoom, and Google",0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-21,Artificial intelligence and the antitrust case against Google,1.0,-0.6,0.4767,0.0,0.693,0.307
+2020-10-21,Google case is a chance to reframe antitrust debate,0.0,0.0,0.25,0.0,0.778,0.222
+2020-10-21,3 Biden-Backed Election Stocks to Buy Today,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-21,"The DOJ antitrust lawsuit against Google could pose a risk to Apple's valuation, analyst says",0.0,0.0,-0.4588,0.25,0.75,0.0
+2020-10-21,"The Zacks Analyst Blog Highlights: Tesla, General Motors, Google, Ford and Apple",0.5,0.05000000000000002,0.0,0.0,1.0,0.0
+2020-10-21,Google/antitrust: unparanoid Android,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-21,Mozilla rightly fears “collateral damage” in Google antitrust case,0.5357142857142857,0.2857142857142857,-0.4215,0.259,0.741,0.0
+2020-10-21,Antitrust Suit Against Google ls Disappointing For Publishers,0.7,-0.6,-0.4939,0.314,0.686,0.0
+2020-10-21,Google antitrust case shows the flaws in competition regulation ,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-21,Social Media enthusiasm outweighing Netflix disappointment: At the Open,0.32222222222222224,-0.18888888888888888,-0.1027,0.25,0.53,0.22
+2020-10-21,Google Antitrust Fight Thrusts Low-Key C.E.O. Into the Line of Fire,0.0,0.0,-0.6124,0.357,0.643,0.0
+2020-10-21,News24.com | US case against Google mimics lawsuit that weakened Microsoft,0.0,0.0,-0.4939,0.344,0.656,0.0
+2020-10-21,Google antitrust case backed by rare Washington consensus,0.9,0.3,0.0258,0.0,0.864,0.136
+2020-10-20,"MarketWatch First Take: Google investors: Unsure about what to do amid antitrust charges? Well, better get used to it",0.41666666666666663,0.375,0.2263,0.17,0.622,0.207
+2020-10-20,'Don't be evil': How Google evolved from 'cuddly' startup to antitrust target,1.0,-1.0,0.0,0.0,1.0,0.0
+2020-10-20,Daily Crunch: DOJ files antitrust suit against Google,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-20,"Google Calls U.S. Antitrust Lawsuit 'Flawed,' Apple Cited In Complaint",0.35,-0.4,-0.4767,0.339,0.661,0.0
+2020-10-20,Justice Department Sues Google For Violating Antitrust Laws ,0.0,0.0,-0.0258,0.271,0.465,0.264
+2020-10-20,"Equity Shot: The DoJ, Google and what the suit could mean for startups",0.6875,-0.3125,0.0,0.0,1.0,0.0
+2020-10-20,Social media stocks get juice as Snap soaks in sunny user numbers,0.06666666666666667,0.03333333333333333,0.4215,0.0,0.797,0.203
+2020-10-20,The DOJ's Google Antitrust Lawsuit: What To Know,0.0,0.0,-0.2263,0.213,0.787,0.0
+2020-10-20,": After charges against Google, road map to antitrust changes contains many potential routes",0.75,0.25,-0.2732,0.149,0.851,0.0
+2020-10-20,7 Ways to Minimize Your Risk in Growth Stocks,0.0,0.0,0.128,0.196,0.561,0.243
+2020-10-20,US seeks to rein in Google on search ,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-20,Investors appear to shrug at antitrust lawsuit aimed at Google,0.0,0.0,-0.2263,0.174,0.826,0.0
+2020-10-20,Google announces slew of Chrome OS features to help extend enterprise usage,0.0,0.0,0.5267,0.0,0.694,0.306
+2020-10-20,Google calls DOJ’s antitrust lawsuit ‘deeply flawed’ in GIF-laden blog response,0.5,-0.5,-0.2263,0.16,0.84,0.0
+2020-10-20,US antitrust lawsuit says Google breakup may be needed,0.0,0.0,-0.2263,0.192,0.808,0.0
+2020-10-20,"Google Photos revives its prints subscription service, expands same-day print options",0.0,0.0,0.4588,0.0,0.692,0.308
+2020-10-20,NewsWatch: Google officially charged with antitrust by Justice Department,0.0,0.0,0.3818,0.148,0.574,0.279
+2020-10-20,"Google shares rise amid landmark U.S. antitrust suit, pledge to fight back",0.0,0.0,-0.0258,0.172,0.596,0.232
+2020-10-20,"US Justice Department files antitrust lawsuit against Google, says break-up may be needed",0.0,0.0,0.3612,0.117,0.675,0.209
+2020-10-20,U.S. Department of Justice files antitrust lawsuit against Google,0.0,0.0,0.3612,0.154,0.569,0.276
+2020-10-20,What Is Happening With the Antitrust Suit Against Google?,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-20,Google hit by landmark competition lawsuit in US over search,0.0,0.0,-0.1531,0.17,0.714,0.116
+2020-10-20,The USA vs. Google,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-20,Justice Department Files Antitrust Suit Against Google,0.0,0.0,0.5267,0.0,0.638,0.362
+2020-10-20,"Jefferies raises targets on digital ad plays, favoring Facebook and Snap",0.0,0.0,0.5859,0.0,0.652,0.348
+2020-10-20,News24.com | US to sue Google in biggest antitrust case in decades,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-20,Disney Is Streaming Above the Bad News,0.3833333333333333,-0.3499999999999999,-0.5423,0.368,0.632,0.0
+2020-10-20,: Google officially charged with antitrust by Justice Department,0.0,0.0,0.3818,0.161,0.536,0.304
+2020-10-20,Dept. of Justice Accuses Google of Illegally Protecting Monopoly,0.5,-0.5,0.25,0.187,0.547,0.266
+2020-10-20,The Justice Department has filed its antitrust lawsuit against Google,0.0,0.0,0.3612,0.143,0.602,0.256
+2020-10-20,US antitrust case accuses Google of strangling competition,0.0,0.0,-0.34,0.255,0.745,0.0
+2020-10-20,The Google-Fitbit Deal Might Face Another Regulatory Hurdle to Clear,0.3833333333333333,0.10000000000000002,0.3818,0.0,0.776,0.224
+2020-10-20,"U.S., 11 states sue Google for antitrust over search and search ads",0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-20,Brace for Covid 2.0 With a Stake in American Well,0.0,0.0,0.2732,0.0,0.792,0.208
+2020-10-20,Justice Department to file antitrust suit against Google today - WSJ,0.0,0.0,0.5267,0.0,0.726,0.274
+2020-10-20,Buy Qualcomm Stock for Solid Returns Over the Long Haul,0.25,-0.025,0.1531,0.0,0.849,0.151
+2020-10-19,Google Assistant-enabled smart displays gain support for multiple accounts,0.32142857142857145,0.10714285714285714,0.8316,0.0,0.405,0.595
+2020-10-19,Every Investor Should Own at Least Some of These Stocks,0.7,0.15,0.0,0.0,1.0,0.0
+2020-10-19,Google Cloud launches Lending DocAI to streamline mortgage applications with AI,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-19,"Google Cloud launches Lending DocAI, its first dedicated mortgage industry tool",0.3333333333333333,0.25,0.4588,0.0,0.769,0.231
+2020-10-19,Get Ready to Buy The Trade Desk Stock on Weakness,0.5,0.2,-0.0772,0.211,0.602,0.188
+2020-10-19,"Lawmakers fail to tackle Netflix, Google issues in audit ",0.29999999999999993,-0.5,-0.5423,0.304,0.696,0.0
+2020-10-19,4 AI Stocks That Will Surge in 2021 as Artificial Intelligence Takes Hold,1.0,-0.6,0.4767,0.0,0.78,0.22
+2020-10-18,Top UK competition official threatens action against Google and Facebook,0.3,0.3,-0.2023,0.21,0.645,0.145
+2020-10-17,"Political ad spending passes record $6.7B, a boon for local TV",0.05,0.0,0.0,0.0,1.0,0.0
+2020-10-17,"This Week in Apps: Apple’s big event, lidar comes to iPhone, Android gets a new IDE",0.2772727272727273,0.06818181818181818,0.0,0.0,1.0,0.0
+2020-10-16,"Google Assistant, Maps and Search can now help you figure out where to vote",0.0,0.0,0.4019,0.0,0.828,0.172
+2020-10-16,EU’s Google-Fitbit antitrust decision deadline pushed into 2021,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-16,Instacart IPO: The Next Big Unicorn You Can Buy,0.05,0.0,0.0,0.0,1.0,0.0
+2020-10-16,EU pushes back deadline for Google-Fitbit probe,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-16,There’s Just Too Much to Love About Dropbox Stock at These Levels,0.6,0.5,0.6369,0.0,0.724,0.276
+2020-10-15,Twitter changes policy on hacked materials amid Biden-story flap,0.0,0.0,-0.4019,0.252,0.748,0.0
+2020-10-15,Google Search Gets More Helpful With the Release of New AI Features,0.4772727272727273,0.3181818181818182,0.4754,0.0,0.781,0.219
+2020-10-15,"Google introduces song matching via humming, whistling or singing",0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-15,Google launches a slew of Search updates,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-15,Google details how it’s using AI and machine learning to improve search,0.0,0.0,0.4404,0.0,0.791,0.209
+2020-10-15,News24.com | Nokia gives Google nod for IT infrastructure,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-15,Google will let everyone migrate from Hangouts to Chat for free in 2021,0.8,0.4,0.5106,0.0,0.784,0.216
+2020-10-15,FCC Chairman Pai says he'll revisit social-media law to clarify meaning (updated),0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-15,Velodyne Is Poised to Be a Winning Self-Driving Play,0.75,0.5,0.7783,0.0,0.391,0.609
+2020-10-15,Unqork Stock Unleashing the No-Code Revolution,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-15,Airgility Hopes That AI Drones Will Lead to Big Profits,0.1,0.0,0.6908,0.0,0.584,0.416
+2020-10-15,Big Tech sentiment gets shaky after three strong weeks: At the Open,0.4583333333333333,0.024999999999999994,0.34,0.125,0.658,0.217
+2020-10-15,": Google, Facebook and Apple in the crosshairs as lawmakers agree on EU intervention in Big Tech",0.1,0.0,0.3612,0.0,0.857,0.143
+2020-10-15,WizVille Local Monitor helps small shops track Google Maps ratings of competitors,0.2,-0.125,0.3818,0.0,0.809,0.191
+2020-10-14,Google keeps it simple with the Pixel 5,0.35714285714285715,0.0,0.0,0.0,1.0,0.0
+2020-10-14,"Google launches new journalism tools, including Pinpoint for sifting through documents",0.45454545454545453,0.13636363636363635,0.0,0.0,1.0,0.0
+2020-10-14,Google Analytics Redesign Significantly Improves Measurement For Advertisers,0.875,0.375,0.4215,0.0,0.714,0.286
+2020-10-14,The 7 Best Startups You Can Buy On SeedInvest Right Now,0.4178571428571428,0.6428571428571428,0.6369,0.0,0.682,0.318
+2020-10-14,Google Analytics update uses machine learning to surface more critical customer data,0.65,0.25,-0.3804,0.191,0.809,0.0
+2020-10-14,Google Cloud promises it won’t pry into customer data,0.0,0.0,0.3818,0.0,0.755,0.245
+2020-10-14,"Google launches a suite of tech-powered tools for reporters, Journalist Studio",0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-14,Investors Should Wait to Buy the Pullback in Snowflake,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-14,"AppsFlyer: Facebook, Google, and Unity Ads dominate mobile advertising",0.0,0.0,-0.128,0.158,0.842,0.0
+2020-10-14,Google Bails on Selling Music Downloads,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-14,Nokia Corporation : Nokia and Google Cloud sign strategic collaboration to transform Nokia’s digital infrastructure,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-14,Nokia moving IT infrastructure to Google Cloud,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-13,Google Employees Are Free to Speak Up. Except on Antitrust.,0.8,0.4,0.5106,0.0,0.732,0.268
+2020-10-13,7 Consumer Stocks for an Impenetrable Defense,0.0,0.0,0.128,0.0,0.769,0.231
+2020-10-13,Google expands BeyondCorp alliance to push zero trust security,0.0,0.0,0.7269,0.0,0.458,0.542
+2020-10-13,TOTAL & Google Cloud's Solar Mapper to Drive Solar Energy Use,0.75,0.0,0.2732,0.0,0.811,0.189
+2020-10-13,Total and Google develop Solar Mapper,0.75,0.0,0.0,0.0,1.0,0.0
+2020-10-13,"Total S.A. : Total and Google Cloud Develop Solar Mapper, a Tool for Estimating the Solar Energy Potential of Houses’ Roofs",0.8333333333333334,0.0,0.2732,0.0,0.896,0.104
+2020-10-12,Google Ads Brings YouTube Into Attribution Reporting,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-12,Google Duplex’s haircut-booking feature could help short-handed businesses,0.0,0.0,0.4019,0.0,0.722,0.278
+2020-10-12,Google updates Android Studio with better TensorFlow Lite support and a new database inspector,0.4772727272727273,0.3181818181818182,0.6808,0.0,0.663,0.337
+2020-10-12,Android Studio 4.1 simplifies using TensorFlow Lite models and Android Emulator,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-12,3 Stocks to Profit on Autonomous Cars,0.7,0.4,0.4404,0.0,0.633,0.367
+2020-10-12,3 Reasons Why Sony Stock Is a Must for Your Portfolio Ahead of Next-Gen PlayStation Launch,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-12,"Social media stocks jump as Deutsche Bank sees ad recovery, raises targets",0.06666666666666667,0.03333333333333333,0.0,0.0,1.0,0.0
+2020-10-12,"The Zacks Analyst Blog Highlights: IBM, Microsoft, Amazon, Google and Hewlett Packard",0.0,0.0,0.1779,0.0,0.866,0.134
+2020-10-12,3 Streaming Stocks to Buy for 2021 and Beyond,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-12,"The Zacks Analyst Blog Highlights: Google, Amazon, Nvidia, Apple and Baidu",0.0,0.0,0.1779,0.0,0.855,0.145
+2020-10-12,: Why the EU is drawing up a ‘hit list’ of major Big Tech players like Facebook and Google,0.3,0.03125,0.3612,0.0,0.865,0.135
+2020-10-12,Best Stocks for 2020: Apple Could Win Thanks to New Services and 5G,0.3386363636363636,0.5340909090909091,0.8979,0.0,0.478,0.522
+2020-10-12,Tax agency to fight Google in-app purchase policy ,0.0,0.0,-0.3818,0.271,0.729,0.0
+2020-10-12,EU crafting Big Tech 'hit list' - FT,0.1,0.0,0.0,0.0,1.0,0.0
+2020-10-11,Google Chrome A Focus As Feds Eye Breakup Of Tech Giant's Businesses,1.0,0.0,0.0,0.0,1.0,0.0
+2020-10-10,"Feds consider forcing Google to sell Chrome, parts of ad business - report",0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-09,Fitbit Is Tracking Closer to Its Deal With Google,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-09,ProBeat: Google should have picked Microsoft’s app store principles over Apple’s,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-09,7 AI Stocks With More Hype Than Bite,0.5,0.5,0.0,0.0,1.0,0.0
+2020-10-09,"Mary Ann Shadd Cary, American-Canadian abolitionist, honored in Google Doodle",0.0,0.0,0.5859,0.0,0.703,0.297
+2020-10-09,9 Gaming Stocks That Won’t Hit ‘Game Over’ Anytime Soon,0.4,-0.4,0.0,0.0,1.0,0.0
+2020-10-09,Google's YouTube testing product tagging in e-commerce push - Bloomberg,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-09,7 Stocks You Can Buy to Help Save the Planet,0.0,0.0,0.7096,0.0,0.543,0.457
+2020-10-08,"Developers: Google, Siri, Alexa Are An Abstraction Layer Over Your Apps",0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-08,"Facebook, Following Google, To Ban Political Ads After Polls Close",0.1,0.0,-0.5574,0.286,0.714,0.0
+2020-10-08,Labor Board Accuses Google Contractor of Violating Union Rights,0.0,0.0,-0.7096,0.457,0.543,0.0
+2020-10-08,Google Assistant can now control Android apps,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-08,7 Telehealth Stocks Paving the Digital Medicine Landscape,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-08,Google Assistant gets deeper app integrations as voice assistant usage skyrockets,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-08,Why It’s Time for Bears to Stand Down Regarding Facebook Stock,0.2888888888888889,-0.15555555555555559,0.0,0.0,1.0,0.0
+2020-10-08,DuckDuckGo ducks Google to launch route-planning powered by Apple Maps,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-08,"The rush to constrain the power of Amazon, Apple, Facebook and Google",0.0,0.0,0.1779,0.0,0.866,0.134
+2020-10-08,"Google Assistant now can open, search mobile apps",0.5,0.0,0.0,0.0,1.0,0.0
+2020-10-08,"Google Cloud bets on EOS blockchain, venturing further into crypto ",0.5,0.0,0.0,0.0,1.0,0.0
+2020-10-08,"Facebook, Alphabet see boosts as Cowen raises digital ad expectations",0.0,0.0,0.3182,0.0,0.796,0.204
+2020-10-08,Google loses appeal against payment talks with French news sites ,0.05,-0.15,-0.3182,0.204,0.796,0.0
+2020-10-08,FTC tightens reins on Google in-app purchase policy ,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-08,South Korea launches probe into Google over potential fair trade violations ,0.95,0.35,-0.2732,0.231,0.612,0.156
+2020-10-08,"Google must negotiate to pay for French news, appeals court confirms",0.0,0.0,-0.1027,0.123,0.877,0.0
+2020-10-08,"Google must negotiate with French publishers for content pay, says appeals court",0.0,0.0,-0.1027,0.113,0.887,0.0
+2020-10-08,U.S. Supreme Court divided over Google’s bid to end Oracle’s Android copyright lawsuit,0.0,0.0,0.4019,0.115,0.667,0.218
+2020-10-07,Supreme Court Hears Copyright Battle Between Google and Oracle,0.0,0.0,0.25,0.197,0.53,0.273
+2020-10-07,Google given sceptical reception in Supreme Court against Oracle,0.0,0.0,0.34,0.172,0.547,0.281
+2020-10-07,"Media roundup: Google to cut big checks for news publishers, Substack continues to draw top creators, more",0.3666666666666667,0.3333333333333333,-0.0772,0.111,0.794,0.095
+2020-10-07,Google nearing news-payment deal with French publishers,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-07,9 New-on-Robinhood Stocks You Can Buy Now,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-07,": Google, Oracle face off in Supreme Court in largest software development case ever",0.0,0.0,0.5574,0.0,0.769,0.231
+2020-10-07,Now Is Not the Right Time to Shop for AMZN Shares,0.5357142857142857,0.2857142857142857,0.296,0.0,0.82,0.18
+2020-10-07,Google Assistant gets an incognito-like guest mode,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-07,Google Rebrands G Suite as Workspace With Advanced Features,0.6,0.4,0.25,0.0,0.778,0.222
+2020-10-07,Supreme Court seems wary of upending tech industry in Google-Oracle fight - CNBC,0.7,-0.5,0.25,0.16,0.617,0.222
+2020-10-07,Google Rebrands Its G-Suite as 'Google Workplace',0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-07,Google facing new antitrust battle in India over smart TVs - Reuters,0.5487012987012987,0.17532467532467533,0.0258,0.182,0.629,0.189
+2020-10-07,More Proof Nvidia Stock Is a Buy,0.5,0.5,0.0,0.0,1.0,0.0
+2020-10-07,Supreme Court hearing Google's appeal of $8B Oracle patent fight,0.0,0.0,0.25,0.183,0.563,0.254
+2020-10-07,Google Chromecast Review: A Streaming Device That Gets Better the More It Knows,0.5,0.5,0.4404,0.0,0.791,0.209
+2020-10-07,Google and Oracle copyright clash to be heard at Supreme Court,0.0,0.0,0.5574,0.0,0.735,0.265
+2020-10-06,Daily Crunch: G Suite becomes Google Workspace,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-06,"U.S. Congress calls for antitrust reforms to limit powers of Amazon, Apple, Facebook, and Google",0.0,0.0,0.1779,0.0,0.892,0.108
+2020-10-06,House antitrust panel's report urges tackling 'monopoly power' at four tech giants,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-06,4 Biometric Stocks for Heightened Security,0.0,0.0,0.34,0.0,0.625,0.375
+2020-10-06,Google Cloud joins EOS blockchain community,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-06,Pullback and Possible Split Make Amazon Extremely Attractive,1.0,0.4,0.5984,0.0,0.551,0.449
+2020-10-06,Google adds ‘Stories’ to its search app for iOS and Android,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-06,Google Assistant comes to gaze-powered accessible devices,0.375,0.375,0.0,0.0,1.0,0.0
+2020-10-06,Google Assistant comes to Tobii Dynavox devices and apps,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-06,"Chrome 86 brings password protections for Android and iOS, VP9 for macOS Big Sur",0.1,0.0,-0.3818,0.167,0.833,0.0
+2020-10-06,Google is providing cash awards to 76 startups through a racial equity initiative announced in June,0.0,0.0,0.4588,0.0,0.824,0.176
+2020-10-06,Google Faces an Antitrust Battle in China: What It Means for Investors,0.0,0.0,-0.3818,0.191,0.809,0.0
+2020-10-06,Apple's App Store Continues to Crush Google Play in Monetization,0.0,0.0,0.2023,0.133,0.667,0.2
+2020-10-06,G Suite is now Google Workspace because ‘work is no longer a physical place’,0.14285714285714285,0.0,-0.296,0.167,0.833,0.0
+2020-10-06,G Suite is now Google Workspace,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-06,"House antitrust report hints at breaking up big tech, lawmaker says",0.1,0.0,0.0,0.0,1.0,0.0
+2020-10-05,Blockchain: The Next Great Transformational Technology Platform,0.375,0.4,0.6249,0.0,0.594,0.406
+2020-10-05,Google teams up with Samsonite to launch a Jacquard smart fabric-enabled backpack,0.6428571428571429,0.21428571428571427,0.4019,0.0,0.787,0.213
+2020-10-05,Facebook Stock Is Still the Best Play in the FAANG Group,0.3,1.0,0.765,0.0,0.577,0.423
+2020-10-05,Google defers enforcement of app store fee in India after backlash,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-05,Google defers enforcement of app store fee in India after backlash,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-05,Google Expands Smartphone Presence With New Pixel Phones,0.45454545454545453,0.13636363636363635,0.1027,0.0,0.833,0.167
+2020-10-05,Best ETFs for 2020: The Communication Services SPDR ETF Can Rally in Q4,0.3,1.0,0.6369,0.0,0.741,0.259
+2020-10-05,Google vs Oracle tech dominance battle heads to US Supreme Court,0.0,0.0,0.4215,0.163,0.5,0.338
+2020-10-05,"Snowflake Is a Great Company, But Avoid SNOW Shares for Now",0.75,0.8,0.6249,0.142,0.452,0.406
+2020-10-04,Google delays mandating Play Store’s 30% cut in India to April 2022,0.0,0.0,0.0772,0.145,0.69,0.166
+2020-10-04,"Move Over, Teladoc: Are Google and Apple the Future of Telehealth?",0.125,0.0,0.0,0.0,1.0,0.0
+2020-10-03,"This Week in Apps: Google Play gets new rules, Apple launches app marketing tools, EU looks to reign in tech giants",0.45454545454545453,0.13636363636363635,0.34,0.0,0.893,0.107
+2020-10-02,Google research lets sign language switch ‘active speaker’ in video calls,0.6,-0.13333333333333333,0.0,0.0,1.0,0.0
+2020-10-02,Google wakes up from its VR daydream,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-02,The Small-Cap Tech Stocks Tripping My Moneyball ‘Buy’ Alerts,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-02,Hit the Reset Button on IBM Stock with New Management,0.45454545454545453,0.13636363636363635,0.0,0.0,1.0,0.0
+2020-10-02,Investors Should Avoid Alteryx Stock at This Point,0.0,0.0,-0.296,0.239,0.761,0.0
+2020-10-02,Why Facebook Probably Won’t Outperform the Market,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-02,7 Overvalued Stocks Investors Should Sell This October,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-02,Alphabet Launches Google TV Streamer and New Pixel Phones,0.45454545454545453,0.13636363636363635,0.0,0.0,1.0,0.0
+2020-10-02,Google working with rivals in face of competition suit,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-02,7 Artificial Intelligence Stocks to Buy for October,1.0,-0.6,0.4767,0.0,0.659,0.341
+2020-10-02,Alphabet May Have Become Overvalued,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-01,Google to pay publishers $1.4 billion over three years for news,0.0,0.0,-0.1027,0.123,0.877,0.0
+2020-10-01,The Wall Street Journal: Google commits $1 billion in licensing payments to news publishers over next 3 years,0.0,0.0,0.0258,0.0,0.936,0.064
+2020-10-01,Google will pay US$1 billion for news - but whether Australian publishers see any of it depends on the ACCC,0.0,0.0,-0.0516,0.062,0.938,0.0
+2020-10-01,Why Google Play Is Changing Its Payment Policy,0.0,0.0,0.34,0.0,0.745,0.255
+2020-10-01,Daily Crunch: Google commits $1B to pay publishers,0.0,0.0,-0.0772,0.165,0.706,0.129
+2020-10-01,Google Maps gets improved Live View AR directions,0.5,0.13636363636363635,0.4767,0.0,0.693,0.307
+2020-10-01,Google takes aim at ‘beauty filters’ with design changes coming to Pixel phones,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-01,Google now has three mid-range Pixel phones,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-01,Google News Showcase In Search Launches For Publishers With $1 Billion Investment,0.0,0.0,0.0,0.0,1.0,0.0
+2020-10-01,Google To Pay $1 Bln To Publishers For Google News Showcase ,0.0,0.0,-0.1027,0.123,0.877,0.0
+2020-10-01,Google to pay publishers $1 billion for their news,0.0,0.0,-0.1027,0.149,0.851,0.0
+2020-10-01,Now Is Not a Good Time to Buy Apple Stock,0.6000000000000001,-0.35,-0.3412,0.231,0.769,0.0
+2020-10-01,Google to pay out $1B to publishers to license content for new Google News Showcase,0.45454545454545453,0.13636363636363635,-0.1027,0.091,0.909,0.0
+2020-10-01,Google to pay publishers $US1b for content,0.0,0.0,-0.1027,0.189,0.811,0.0
+2020-10-01,Google pledges $1bn to pay for news     ,0.0,0.0,-0.1027,0.189,0.811,0.0
+2020-10-01,"To Survive, IBM Needs to Think Outside the Box",0.05,0.0,0.0,0.0,1.0,0.0
+2020-10-01,Google Unveils Pixel 5 ,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-30,Google unveils first 5G ready smartphones,0.41666666666666663,0.225,0.3612,0.0,0.667,0.333
+2020-09-30,Everything Google announced at its hardware event,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-30,Google Pixel phone 'designed for economic downturn',0.2,0.2,0.0,0.0,1.0,0.0
+2020-09-30,"Google introduces new phones, Google TV, smart speaker and Chromecast",0.5487012987012987,0.17532467532467533,0.4019,0.0,0.769,0.231
+2020-09-30,Google says Pixel’s Hold for Me feature records and stores audio on-device,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-30,"A new Google Assistant feature, ‘Hold for Me,’ waits on hold so you don’t have to",0.45454545454545453,0.13636363636363635,0.0,0.0,1.0,0.0
+2020-09-30,"Google introduces new Pixel 5 smartphone,  Chromecast, Nest speaker",0.45454545454545453,0.13636363636363635,0.0,0.0,1.0,0.0
+2020-09-30,Google unveils the $99 Nest Audio smart speaker,0.6428571428571429,0.21428571428571427,0.4019,0.0,0.722,0.278
+2020-09-30,Google launches the $499 Pixel 4a 5G,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-30,The new Chromecast adds a remote and the new Google TV interface for $49,0.3696969696969697,0.057575757575757565,0.0,0.0,1.0,0.0
+2020-09-30,"The new Google TV brings streaming apps, live TV and search into a single interface",0.3896103896103896,0.06709956709956709,0.0,0.0,1.0,0.0
+2020-09-30,Chromecast with Google TV attempts to revive Android TV for the streaming wars,0.0,0.0,-0.296,0.212,0.647,0.141
+2020-09-30,4 Fascinating OTC Stocks to Buy That You May Have Overlooked,0.8500000000000001,0.7,0.5267,0.087,0.635,0.278
+2020-09-30,"The Margin: Google searches for K-shaped recovery, white supremacy and ‘how to move to New Zealand’ spiked during the debate",0.22727272727272727,0.06818181818181818,0.0516,0.0,0.941,0.059
+2020-09-30,China threatens antitrust investigation of Google,0.0,0.0,-0.3818,0.342,0.658,0.0
+2020-09-30,Alibaba News: BABA Stock Gets a 5% Boost From Bright Cloud Outlook,0.7999999999999999,0.7000000000000001,0.6808,0.0,0.616,0.384
+2020-09-30,"Launch Night In Google: How to watch, and what to expect",0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-30,Google Is Reportedly About to Clinch Its Fitbit Acquisition,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-30,8 5G Stocks to Buy for a New Era of Speed,0.45454545454545453,0.13636363636363635,0.0,0.0,1.0,0.0
+2020-09-30,Shares of Apple Are Overpriced,0.0,0.0,0.296,0.0,0.645,0.355
+2020-09-30,China to Open Antitrust Probe Into Google's Android OS,0.5,0.0,0.0,0.0,1.0,0.0
+2020-09-30,Google Is Stoking Antitrust Criticisms at the Worst Possible Time,1.0,-0.5,-0.7184,0.429,0.571,0.0
+2020-09-30,Hailo challenges Intel and Google with its new AI modules for edge devices,0.45454545454545453,0.13636363636363635,0.0772,0.0,0.902,0.098
+2020-09-30,9 Tips to Start Saving for Retirement After 50,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-30,Sink Your Teeth into MCD Stock as It Holds Up With the Best of Tech Names,0.3,1.0,0.6369,0.0,0.781,0.219
+2020-09-29,"Google expected to launch new Pixel phones, Chromecast and smart speakers at event",0.4991341991341991,0.08354978354978354,0.4019,0.0,0.816,0.184
+2020-09-29,How to Find the Next GOOGL Before It Takes Off,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-29,Google concedes on Fitbit data,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-29,Google Isn't Giving Up on Fitbit Just Yet,0.0,0.0,-0.2584,0.225,0.775,0.0
+2020-09-29,Google offers Europe more checks Fitbit data won’t be used for ads,0.25,0.3,0.0,0.0,1.0,0.0
+2020-09-29,EU poised to clear $2.1bn Google Fitbit deal after new promises,0.41893939393939394,0.1181818181818182,0.7351,0.0,0.526,0.474
+2020-09-29,"Payments negotiations with media companies unworkable, warns Google boss",0.0,0.0,-0.1027,0.149,0.851,0.0
+2020-09-29,Google (GOOGL) Adds Coronavirus Tracking Feature to Maps,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-28,"Google-Owner Alphabet Bares Fangs, Clawing Back From Coronavirus Market Crash",0.0,0.0,-0.4019,0.231,0.769,0.0
+2020-09-28,8 Common Investing Mistakes to Avoid: A Cheat Sheet,0.5,-0.3,-0.7717,0.658,0.342,0.0
+2020-09-28,Google Demands 30% Cut From App Developers in Its Play Store,0.0,0.0,0.0772,0.156,0.667,0.178
+2020-09-28,"Google to better enforce Play Store in-app purchase policies, ease use of third-party app stores",0.5,0.5,0.7783,0.0,0.606,0.394
+2020-09-28,Google’s Epic response: Android 12 will make it easier to install app stores,0.4,0.1,0.4215,0.0,0.811,0.189
+2020-09-28,Google To Block Election Ads After Polls Close,0.0,0.0,-0.4404,0.293,0.707,0.0
+2020-09-28,"The Zacks Analyst Blog Highlights: Amazon, Google, Microsoft, Facebook and Tencent",0.0,0.0,0.1779,0.0,0.855,0.145
+2020-09-28,"The Zacks Analyst Blog Highlights: Intel, Google, Qualcomm, General Motors, Nvidia and Baidu",0.5,0.05000000000000002,0.0,0.0,1.0,0.0
+2020-09-28,The 10 Best Mutual Funds for Your 401k,0.3,1.0,0.6369,0.0,0.625,0.375
+2020-09-28,Upcoming Pixel Event Is Good News for Alphabet Stock,0.6000000000000001,0.7,0.4404,0.0,0.734,0.266
+2020-09-27,Google Shopping accused of failing to address competition problems,0.0,0.0,-0.802,0.577,0.423,0.0
+2020-09-25,: Google settles shareholder lawsuits over sexual-harassment scandals,0.0,0.0,-0.5859,0.49,0.51,0.0
+2020-09-25,Google launches AI Platform Prediction in general availability,0.5,0.05000000000000002,0.0,0.0,1.0,0.0
+2020-09-25,The 7 Best Stocks to Buy for the Fourth Quarter,0.15,0.5,0.6369,0.0,0.656,0.344
+2020-09-25,"As Remote Work Becomes the Norm, Slack Remains Solid",0.15000000000000002,-0.05,0.1531,0.0,0.833,0.167
+2020-09-24,Google Meet and other Google services go down (Updated),0.3319444444444445,-0.14027777777777778,0.0,0.0,1.0,0.0
+2020-09-24,Google partners banks to streamline PayNow transfers,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-24,Coinbase wallet users targeted by new Android malware,0.45454545454545453,0.13636363636363635,0.0,0.0,1.0,0.0
+2020-09-24,": Google will cover $2,500 of employees’ student-loan debt",0.0,0.0,-0.3612,0.263,0.737,0.0
+2020-09-24,"Senate panel wants CEOs of Facebook, Google, Twitter to testify Oct. 1: report",0.1,0.2,0.0,0.0,1.0,0.0
+2020-09-24,Why Buy a Yield Trap With AT&T?,0.0,0.0,-0.3182,0.315,0.685,0.0
+2020-09-24,UK regulator says Google not doing enough about scam ads ,0.5,0.0,-0.5719,0.291,0.709,0.0
+2020-09-24,UK regulator says Google not doing enough about scam ads ,0.5,0.0,-0.5719,0.291,0.709,0.0
+2020-09-24,6 Growth-Bound Artificial Intelligence Stocks to Buy,1.0,-0.6,0.4767,0.0,0.617,0.383
+2020-09-24,Growth to Go with 2 Cheap Classic Tech Stocks,0.4333333333333333,0.2833333333333333,0.3818,0.0,0.729,0.271
+2020-09-24,"To Fight Apple and Google, Smaller App Rivals Organize a Coalition",0.5,0.0,-0.3818,0.224,0.776,0.0
+2020-09-24,Actress Romy Schneider honored with Google Doodle,0.0,0.0,0.5859,0.0,0.612,0.388
+2020-09-23,Dropbox Stock Will Inevitably Get Back to Cloud Nine,0.5,0.0,0.0,0.0,1.0,0.0
+2020-09-23,"Don’t Blame Alphabet Stock for Censorship, Blame Capitalism",0.0,0.0,-0.5859,0.444,0.556,0.0
+2020-09-23,Google Maps gets a COVID-19 layer,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-23,Google adds threat detection to Chronicle cybersecurity platform,0.0,0.0,-0.5267,0.327,0.673,0.0
+2020-09-23,Google Antitrust Lawsuit to Narrowly Focus on Search Dominance,0.4,-0.2,-0.0258,0.178,0.654,0.168
+2020-09-23,Google expands its Flutter development kit to Windows apps,0.0,0.0,0.1027,0.0,0.851,0.149
+2020-09-23,Cloud Stocks Rely on the Software Stack,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-23,EU’s antitrust probe of Google-Fitbit gets more time,0.5,0.5,0.0,0.0,1.0,0.0
+2020-09-23,Snowflake IPO:  Why The Huge Success?,0.45,0.35000000000000003,0.7184,0.0,0.4,0.6
+2020-09-23,Is Google-Backed Telemedicine Stock Amwell a Buy After Its IPO?,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-23,7 Best Blockchain Stocks to Buy for the Rest of 2020,0.3,1.0,0.6369,0.0,0.682,0.318
+2020-09-23,"Rackspace Technology, Inc. : Rackspace Technology supports gohenry’s global expansion with migration to Google Cloud",0.0,0.0,0.3612,0.0,0.839,0.161
+2020-09-22,Justice Dept. Case Against Google Is Said to Focus on Search Dominance,0.0,0.0,0.6369,0.0,0.658,0.342
+2020-09-22,7 5G Stocks for the Next Communication Revolution,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-22,Why Investors Should Buy Alphabet Stock on Weakness,0.0,0.0,-0.4215,0.286,0.714,0.0
+2020-09-22,Unity IPO: The Company Is More Than Just About Gaming,0.5,0.5,0.0,0.0,1.0,0.0
+2020-09-22,Now’s the Time to Invest in the Next Big Tech Awakening,0.05,0.0,0.0,0.0,1.0,0.0
+2020-09-22,Facebook Is a Good Value as Free Cash Flow Ramps Up,0.7000000000000001,0.55,0.8225,0.0,0.449,0.551
+2020-09-22,"Google launches a work-tracking tool and Airtable rival, Tables",0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-22,"Killi Introduces Ad Blocker for Google Chrome, Becoming The First Company To Pay Consumers To Block Ads In The Browser",0.5916666666666667,0.35,-0.5106,0.193,0.807,0.0
+2020-09-22,"Microsoft, Google up ante in escalating cloud competition",0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-22,Alphabet Stock Will Soon Bounce Back From The Present Correction,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-21,Why These Tech Stocks Are Sitting Pretty Right Now,0.7678571428571428,0.26785714285714285,0.4939,0.0,0.714,0.286
+2020-09-21,"If Apple Creates a Watch Supercycle, AAPL Stock Can Run",0.0,0.0,0.2732,0.0,0.792,0.208
+2020-09-21,This Deal Helped Turn Google Into an Ad Powerhouse. Is That a Problem?,0.0,0.0,-0.4019,0.197,0.803,0.0
+2020-09-20,"Thanks to Google, app store monopoly concerns have now reached India",0.2,0.2,0.5106,0.0,0.677,0.323
+2020-09-20,This New Google-Backed Healthcare IPO Could Be Hotter Than Snowflake,0.45454545454545453,0.13636363636363635,0.0,0.0,1.0,0.0
+2020-09-18,Google Telehealth Partner Amwell Zooms 28% Higher in First Days of Trading,0.41666666666666663,0.25,0.0,0.0,1.0,0.0
+2020-09-18,"4 Top Stock Trades for Monday: AAPL, GOOGL, NCLH, PYPL",0.5,0.5,0.2023,0.0,0.816,0.184
+2020-09-18,Miso Robotics: How AI Can Transform An Industry,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-18,Bed Bath & Beyond Expands Google Cloud Deal on Online Demand,0.0,0.0,-0.0258,0.138,0.734,0.128
+2020-09-18,Google pulls Paytm from app store,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-18,3 Blue-Chip Stocks to Trade,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-18,"Nvidia, Amazon, Google: Next In Line For Stock Split?",0.0,0.0,0.1779,0.0,0.825,0.175
+2020-09-18,Reports of Google Fiber's Death Are Greatly Exaggerated,1.0,-0.5,-0.6801,0.482,0.518,0.0
+2020-09-18,Google pulls India’s Paytm app from Play Store for repeat policy violations,0.0,0.0,-0.25,0.215,0.633,0.152
+2020-09-17,"Australia to amend law making Facebook, Google pay for news",0.0,0.0,-0.1027,0.135,0.865,0.0
+2020-09-17,Snowflake IPO Goes into the Stratosphere,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-17,"Google Enables Ad Insertions During Live Events, Uses Ad-Break Data",0.5,0.13636363636363635,0.0,0.0,1.0,0.0
+2020-09-17,"DoiT Signs Multi-Year, Strategic, Non-Binding 1.5 Billion Dollar Agreement with Google Cloud",0.0,0.0,0.4939,0.0,0.775,0.225
+2020-09-17,"There’s Really No Need to Chase Genius Brands Stock, Even at These Lows",0.2,-0.1,-0.5095,0.281,0.719,0.0
+2020-09-17,"Australia to amend law making Facebook, Google pay for news",0.0,0.0,-0.1027,0.135,0.865,0.0
+2020-09-16,Luther.AI is a new AI tool that acts like Google for personal conversations,0.37727272727272726,0.06818181818181818,0.3612,0.0,0.815,0.185
+2020-09-16,3 Bank Stocks to Buy Whose Day Is Coming,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-16,7 Self-Driving Car Companies Racing to Gains,0.0,0.0,0.34,0.0,0.676,0.324
+2020-09-16,Google Is Getting Into Video-Calling Hardware,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-16,Comcast Bets a Cable Monopoly Can Be a Phone Company,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-15,Alphabet's Google Targets Carbon-Free Operation by 2030,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-15,Google exec on hot seat  in Congress over advertising power,0.8500000000000001,0.25,0.0,0.0,1.0,0.0
+2020-09-15,Sembcorp and Google sign multi-year renewable energy deal,0.0,0.0,0.2732,0.0,0.769,0.231
+2020-09-15,Google launches Kartta Labs to recreate historical maps in 3D,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-15,Google launches new AI-powered meeting room hardware,0.45454545454545453,0.13636363636363635,0.0,0.0,1.0,0.0
+2020-09-15,"Google Meet hardware promises AI features starting at $2,700",0.1,0.0,0.3818,0.0,0.755,0.245
+2020-09-15,5 Tech Stocks to Buy That Are Much Better Than FAANG,0.5,0.5,0.4404,0.0,0.756,0.244
+2020-09-15,The Key Question Surrounding XpresSpa Group Right Now,0.7678571428571428,0.14285714285714285,0.0,0.0,1.0,0.0
+2020-09-15,Google Aims to Attain Zero Carbon Footprint Goal by 2030,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-15,How To Have Your Cake and Eat It Too in Amazon Stock,0.0,0.0,0.1779,0.0,0.866,0.134
+2020-09-15,"The Zacks Analyst Blog Highlights: Microsoft, Sony, Google, Facebook and Amazon",0.0,0.0,0.1779,0.0,0.855,0.145
+2020-09-15,JLT Mobile Computers AB : JLT Mobile Computers launches 10-inch rugged Android VMT to future‑proof warehouse productivity,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-15,Google plans to power its operations with carbon-free energy by 2030,0.0,0.0,0.2732,0.0,0.826,0.174
+2020-09-15,Alphabet Stock is a Play on Economic Recovery as Advertising Picks Up,0.2,0.2,0.34,0.0,0.806,0.194
+2020-09-14,"Sembcorp, Google sign multi-year renewable energy deal",0.0,0.0,0.2732,0.0,0.741,0.259
+2020-09-14,Google faces $3.2 billion lawsuit over use of children's data in U.K.,0.0,0.0,-0.2263,0.147,0.853,0.0
+2020-09-14,"Google expected to unveil new smartphone, Chromecast, smart speaker on Sept. 30",0.4991341991341991,0.08354978354978354,0.4019,0.0,0.803,0.197
+2020-09-14,"Google will announce a new Pixel, smart speaker and Chromecast September 30",0.5487012987012987,0.17532467532467533,0.4019,0.0,0.787,0.213
+2020-09-14,News24.com | Google faces $3 billion UK suit over use of children’s data,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-14,"Google claims net zero carbon footprint over its entire lifetime, aims to only use carbon-free energy by 2030",0.5416666666666666,0.0,0.2732,0.0,0.89,0.11
+2020-09-14,Google says its carbon footprint is now zero,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-14,Google pledges to be carbon free as fires engulf California,0.8,0.4,0.5106,0.0,0.732,0.268
+2020-09-13,"Google must act on scam money adverts, Which? says",0.0,0.0,-0.5719,0.316,0.684,0.0
+2020-09-11,Ex-Google boss Eric Schmidt: US 'dropped the ball' on innovation,0.0,0.0,0.3818,0.0,0.776,0.224
+2020-09-11,"Apple changes to App Store could hamper game-streaming services from Google, Microsoft",0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-11,TikTok fixes Android bugs that could have led to account hijacks,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-11,7 Fitness Stocks That Will Give Your Portfolio Some Muscle,0.0,0.0,0.2732,0.0,0.792,0.208
+2020-09-10,Google claims its AI is becoming better at recognizing breaking news and misinformation,0.675,0.475,0.1531,0.142,0.679,0.179
+2020-09-10,Google says it’s eliminating Autocomplete suggestions that target candidates or voting,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-10,7 Semiconductor Stocks Suffering Under Moore’s Second Law,0.0,0.0,-0.4767,0.341,0.659,0.0
+2020-09-10,"Carnival Is Not Going Bankrupt, But Only Risk-Tolerant Investors Should Buy CCL Stock",1.0,0.0,0.4449,0.0,0.804,0.196
+2020-09-10,3 Great Companies to Invest In on Wefunder,0.75,0.8,0.6249,0.0,0.594,0.406
+2020-09-10,Huawei to launch its Harmony OS Android rival on smartphones in 2021,0.0,0.0,0.4019,0.0,0.803,0.197
+2020-09-10,"When it Comes to Intel, the Price Still Matters",0.0,0.0,0.0258,0.0,0.879,0.121
+2020-09-09,"Three years later, Google Maps is back on the Apple Watch",0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-09,"U.S. holiday shopping season on mobile expected to be largest to date, topping 1B hours on Android",0.4,-0.1,0.4019,0.0,0.856,0.144
+2020-09-09,7 ETFs to Buy for Their Inclusion of Profitable Coronavirus Stocks,0.0,0.0,0.4404,0.0,0.756,0.244
+2020-09-09,The Top 7 Healthcare Stocks You Should Be Watching,0.5,0.5,0.2023,0.0,0.795,0.205
+2020-09-09,5 All-Star Russell 2000 Stocks to Buy Now,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-09,Android 11 release: everything you need to know about Google's update,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-09,Google-Supported Telehealth Company Amwell Prices IPO,0.0,0.0,0.0,0.0,1.0,0.0
+2020-09-08,The 6 Best 5G Stocks to Buy Now Before the Revolution,0.3,1.0,0.6369,0.0,0.682,0.318
+2020-09-08,"Google launches Android 11, rolling out not just to Pixel phones first",0.3333333333333333,0.25,0.0,0.0,1.0,0.0
